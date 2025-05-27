@@ -65,5 +65,3 @@ To conduct a **visual-driven analysis** of cybersecurity logs, focusing on threa
 
 ---
 
-## 📁 Project Structure
-
