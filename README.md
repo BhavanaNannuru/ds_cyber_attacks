@@ -1,16 +1,16 @@
-# 🛡️ Cybersecurity Attacks Dataset - EDA & Data Cleaning
+# Cybersecurity Attacks Dataset - EDA & Data Cleaning
 
 This project performs data cleaning and exploratory data analysis (EDA) on a real-world cybersecurity dataset. The goal is to prepare the data for insights that support threat intelligence and incident response.
 
 ---
 
-## 📄 Dataset Source
+## Dataset Source
 
 **Kaggle**: [Cyber Security Attacks Dataset](https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data)
 
 ---
 
-## 📌 Objective
+## Objective
 
 To conduct a **visual-driven analysis** of cybersecurity logs, focusing on threat indicators such as:
 
@@ -21,7 +21,7 @@ To conduct a **visual-driven analysis** of cybersecurity logs, focusing on threa
 
 ---
 
-## 🔍 Steps Performed
+## Steps Performed
 
 ### 1. Data Loading & Initial Overview
 
@@ -47,7 +47,7 @@ To conduct a **visual-driven analysis** of cybersecurity logs, focusing on threa
 
 ---
 
-## ✅ Observations from Cleaning
+## Observations from Cleaning
 
 - Key threat-related columns had missing data.
 - All missing values were filled with `'No'` to maintain consistency.
@@ -55,7 +55,7 @@ To conduct a **visual-driven analysis** of cybersecurity logs, focusing on threa
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Python
 - Pandas
